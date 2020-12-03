@@ -5199,3 +5199,8 @@
 26875,91752,GO:0098794,ZNF804A,postsynapse,2.0
 26876,91752,GO:1901588,ZNF804A,dendritic microtubule,2.0
 26877,91752,GO:1902952,ZNF804A,positive regulation of dendritic spine maintenance,2.0
+26900,339145,GO:0005515,FAM92B,protein binding,2.0
+26901,339145,GO:0005737,FAM92B,cytoplasm,2.0
+26902,339145,GO:0005814,FAM92B,centriole,2.0
+26903,339145,GO:0030030,FAM92B,cell projection organization,2.0
+26904,339145,GO:0042995,FAM92B,cell projection,2.0

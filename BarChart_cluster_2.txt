@@ -1,0 +1,11 @@
+1	Gonadotropin-releasing hormone receptor pathway (P06664)	2	8.0%	14.3%
+2	Metabotropic glutamate receptor group III pathway (P00039)	1	4.0%	7.1%
+3	Ionotropic glutamate receptor pathway (P00037)	2	8.0%	14.3%
+4	Inflammation mediated by chemokine and cytokine signaling pathway (P00031)	1	4.0%	7.1%
+5	Synaptic vesicle trafficking (P05734)	1	4.0%	7.1%
+6	Opioid proenkephalin pathway (P05915)	1	4.0%	7.1%
+7	T cell activation (P00053)	1	4.0%	7.1%
+8	p53 pathway by glucose deprivation (P04397)	2	8.0%	14.3%
+9	Enkephalin release (P05913)	1	4.0%	7.1%
+10	Parkinson disease (P00049)	1	4.0%	7.1%
+11	DNA replication (P00017)	1	4.0%	7.1%

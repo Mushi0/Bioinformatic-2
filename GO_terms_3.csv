@@ -10865,3 +10865,59 @@
 26895,55055,GO:0007093,ZWILCH,mitotic cell cycle checkpoint,3.0
 26896,55055,GO:0051301,ZWILCH,cell division,3.0
 26897,55055,GO:1990423,ZWILCH,RZZ complex,3.0
+26898,113201,GO:0005794,CASC4,Golgi apparatus,3.0
+26899,113201,GO:0016021,CASC4,integral component of membrane,3.0
+26905,388677,GO:0005112,NOTCH2NL,Notch binding,3.0
+26907,388677,GO:0005509,NOTCH2NL,calcium ion binding,3.0
+26908,388677,GO:0005515,NOTCH2NL,protein binding,3.0
+26909,388677,GO:0005576,NOTCH2NL,extracellular region,3.0
+26910,388677,GO:0005737,NOTCH2NL,cytoplasm,3.0
+26911,388677,GO:0007219,NOTCH2NL,Notch signaling pathway,3.0
+26912,388677,GO:0021987,NOTCH2NL,cerebral cortex development,3.0
+26913,388677,GO:0030154,NOTCH2NL,cell differentiation,3.0
+26914,388677,GO:0045747,NOTCH2NL,positive regulation of Notch signaling pathway,3.0
+26915,26121,GO:0000244,RP11-1407O15.2,spliceosomal tri-snRNP complex assembly,3.0
+26917,26121,GO:0000398,RP11-1407O15.2,"mRNA splicing, via spliceosome",3.0
+26921,26121,GO:0003723,RP11-1407O15.2,RNA binding,3.0
+26922,26121,GO:0005515,RP11-1407O15.2,protein binding,3.0
+26923,26121,GO:0005634,RP11-1407O15.2,nucleus,3.0
+26924,26121,GO:0005654,RP11-1407O15.2,nucleoplasm,3.0
+26926,26121,GO:0005684,RP11-1407O15.2,U2-type spliceosomal complex,3.0
+26927,26121,GO:0005687,RP11-1407O15.2,U4 snRNP,3.0
+26929,26121,GO:0005690,RP11-1407O15.2,U4atac snRNP,3.0
+26931,26121,GO:0015030,RP11-1407O15.2,Cajal body,3.0
+26932,26121,GO:0016607,RP11-1407O15.2,nuclear speck,3.0
+26933,26121,GO:0030621,RP11-1407O15.2,U4 snRNA binding,3.0
+26934,26121,GO:0030622,RP11-1407O15.2,U4atac snRNA binding,3.0
+26935,26121,GO:0042802,RP11-1407O15.2,identical protein binding,3.0
+26936,26121,GO:0043021,RP11-1407O15.2,ribonucleoprotein complex binding,3.0
+26937,26121,GO:0046540,RP11-1407O15.2,U4/U6 x U5 tri-snRNP complex,3.0
+26938,26121,GO:0048254,RP11-1407O15.2,snoRNA localization,3.0
+26939,26121,GO:0070990,RP11-1407O15.2,snRNP binding,3.0
+26940,26121,GO:0071005,RP11-1407O15.2,U2-type precatalytic spliceosome,3.0
+26941,26121,GO:0071011,RP11-1407O15.2,precatalytic spliceosome,3.0
+26942,26121,GO:0071166,RP11-1407O15.2,ribonucleoprotein complex localization,3.0
+26943,26121,GO:0071339,RP11-1407O15.2,MLL1 complex,3.0
+26944,26121,GO:0097526,RP11-1407O15.2,spliceosomal tri-snRNP complex,3.0
+26945,23145,GO:0005615,SSPO,extracellular space,3.0
+26947,23145,GO:0007155,SSPO,cell adhesion,3.0
+26948,23145,GO:0007399,SSPO,nervous system development,3.0
+26949,23145,GO:0010466,SSPO,negative regulation of peptidase activity,3.0
+26950,23145,GO:0030154,SSPO,cell differentiation,3.0
+26951,23145,GO:0030414,SSPO,peptidase inhibitor activity,3.0
+26952,23145,GO:0031012,SSPO,extracellular matrix,3.0
+26953,83538,GO:0003341,TTC25,cilium movement,3.0
+26954,83538,GO:0005515,TTC25,protein binding,3.0
+26955,83538,GO:0005576,TTC25,extracellular region,3.0
+26956,83538,GO:0005737,TTC25,cytoplasm,3.0
+26958,83538,GO:0005930,TTC25,axoneme,3.0
+26959,83538,GO:0007420,TTC25,brain development,3.0
+26960,83538,GO:0007507,TTC25,heart development,3.0
+26961,83538,GO:0030324,TTC25,lung development,3.0
+26962,83538,GO:0036158,TTC25,outer dynein arm assembly,3.0
+26963,83538,GO:0060287,TTC25,epithelial cilium movement involved in determination of left/right asymmetry,3.0
+26964,83538,GO:0090660,TTC25,cerebrospinal fluid circulation,3.0
+26965,83538,GO:0097729,TTC25,9+2 motile cilium,3.0
+26966,83538,GO:0120197,TTC25,mucociliary clearance,3.0
+26967,83538,GO:0120228,TTC25,outer dynein arm docking complex,3.0
+26968,83538,GO:0120229,TTC25,protein localization to motile cilium,3.0
