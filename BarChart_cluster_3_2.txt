@@ -1,0 +1,4 @@
+1	Wnt signaling pathway (P00057)	1	8.3%	16.7%
+2	TGF-beta signaling pathway (P00052)	1	8.3%	16.7%
+3	Hedgehog signaling pathway (P00025)	1	8.3%	16.7%
+4	Ubiquitin proteasome pathway (P00060)	3	25.0%	50.0%

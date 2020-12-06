@@ -1,5 +1,5 @@
-1	Muscarinic acetylcholine receptor 1 and 3 signaling pathway (P00042)	2	10.5%	9.5%
-2	Huntington disease (P00029)	5	26.3%	23.8%
-3	Metabotropic glutamate receptor group I pathway (P00041)	3	15.8%	14.3%
-4	Metabotropic glutamate receptor group III pathway (P00039)	5	26.3%	23.8%
-5	Ionotropic glutamate receptor pathway (P00037)	6	31.6%	28.6%
+1	Muscarinic acetylcholine receptor 1 and 3 signaling pathway (P00042)	2	14.3%	10.0%
+2	Huntington disease (P00029)	4	28.6%	20.0%
+3	Metabotropic glutamate receptor group I pathway (P00041)	3	21.4%	15.0%
+4	Metabotropic glutamate receptor group III pathway (P00039)	5	35.7%	25.0%
+5	Ionotropic glutamate receptor pathway (P00037)	6	42.9%	30.0%

@@ -1,0 +1,4 @@
+1	cellular process (GO:0009987)	5	62.5%	33.3%
+2	metabolic process (GO:0008152)	3	37.5%	20.0%
+3	biological regulation (GO:0065007)	3	37.5%	20.0%
+4	cellular component organization or biogenesis (GO:0071840)	4	50.0%	26.7%

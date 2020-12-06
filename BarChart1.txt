@@ -1,18 +1,17 @@
-1	developmental process (GO:0032502)	21	9.5%	4.7%
-2	multicellular organismal process (GO:0032501)	23	10.4%	5.2%
-3	cellular process (GO:0009987)	99	44.6%	22.3%
-4	reproduction (GO:0000003)	2	0.9%	0.5%
-5	cell population proliferation (GO:0008283)	3	1.4%	0.7%
-6	localization (GO:0051179)	40	18.0%	9.0%
-7	reproductive process (GO:0022414)	2	0.9%	0.5%
-8	multi-organism process (GO:0051704)	6	2.7%	1.4%
-9	biological adhesion (GO:0022610)	5	2.3%	1.1%
-10	immune system process (GO:0002376)	7	3.2%	1.6%
-11	cellular component organization or biogenesis (GO:0071840)	32	14.4%	7.2%
-12	biological regulation (GO:0065007)	73	32.9%	16.4%
-13	growth (GO:0040007)	1	0.5%	0.2%
-14	signaling (GO:0023052)	28	12.6%	6.3%
-15	metabolic process (GO:0008152)	62	27.9%	14.0%
-16	response to stimulus (GO:0050896)	33	14.9%	7.4%
-17	behavior (GO:0007610)	1	0.5%	0.2%
-18	locomotion (GO:0040011)	6	2.7%	1.4%
+1	cellular component organization or biogenesis (GO:0071840)	38	19.8%	9.1%
+2	cellular process (GO:0009987)	90	46.9%	21.6%
+3	reproductive process (GO:0022414)	1	0.5%	0.2%
+4	multi-organism process (GO:0051704)	3	1.6%	0.7%
+5	localization (GO:0051179)	34	17.7%	8.2%
+6	reproduction (GO:0000003)	1	0.5%	0.2%
+7	biological regulation (GO:0065007)	72	37.5%	17.3%
+8	response to stimulus (GO:0050896)	23	12.0%	5.5%
+9	behavior (GO:0007610)	2	1.0%	0.5%
+10	signaling (GO:0023052)	26	13.5%	6.2%
+11	developmental process (GO:0032502)	27	14.1%	6.5%
+12	multicellular organismal process (GO:0032501)	28	14.6%	6.7%
+13	locomotion (GO:0040011)	4	2.1%	1.0%
+14	biological adhesion (GO:0022610)	5	2.6%	1.2%
+15	metabolic process (GO:0008152)	59	30.7%	14.1%
+16	growth (GO:0040007)	3	1.6%	0.7%
+17	cell population proliferation (GO:0008283)	1	0.5%	0.2%

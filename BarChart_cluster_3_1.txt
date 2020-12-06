@@ -1,0 +1,24 @@
+1	Metabotropic glutamate receptor group III pathway (P00039)	2	13.3%	5.9%
+2	Ionotropic glutamate receptor pathway (P00037)	1	6.7%	2.9%
+3	Angiogenesis (P00005)	1	6.7%	2.9%
+4	Opioid proopiomelanocortin pathway (P05917)	1	6.7%	2.9%
+5	Opioid prodynorphin pathway (P05916)	1	6.7%	2.9%
+6	Opioid proenkephalin pathway (P05915)	1	6.7%	2.9%
+7	Alpha adrenergic receptor signaling pathway (P00002)	1	6.7%	2.9%
+8	Adrenaline and noradrenaline biosynthesis (P00001)	1	6.7%	2.9%
+9	Cortocotropin releasing factor receptor signaling pathway (P04380)	1	6.7%	2.9%
+10	Dopamine receptor mediated signaling pathway (P05912)	1	6.7%	2.9%
+11	Thyrotropin-releasing hormone receptor signaling pathway (P04394)	1	6.7%	2.9%
+12	Nicotinic acetylcholine receptor signaling pathway (P00044)	2	13.3%	5.9%
+13	Oxytocin receptor mediated signaling pathway (P04391)	1	6.7%	2.9%
+14	Muscarinic acetylcholine receptor 2 and 4 signaling pathway (P00043)	2	13.3%	5.9%
+15	Muscarinic acetylcholine receptor 1 and 3 signaling pathway (P00042)	2	13.3%	5.9%
+16	Metabotropic glutamate receptor group II pathway (P00040)	2	13.3%	5.9%
+17	Beta3 adrenergic receptor signaling pathway (P04379)	1	6.7%	2.9%
+18	Beta2 adrenergic receptor signaling pathway (P04378)	1	6.7%	2.9%
+19	Beta1 adrenergic receptor signaling pathway (P04377)	1	6.7%	2.9%
+20	5HT4 type receptor mediated signaling pathway (P04376)	1	6.7%	2.9%
+21	5HT3 type receptor mediated signaling pathway (P04375)	1	6.7%	2.9%
+22	Synaptic vesicle trafficking (P05734)	6	40.0%	17.6%
+23	5HT2 type receptor mediated signaling pathway (P04374)	1	6.7%	2.9%
+24	5HT1 type receptor mediated signaling pathway (P04373)	1	6.7%	2.9%

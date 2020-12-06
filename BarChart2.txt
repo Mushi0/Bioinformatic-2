@@ -1,20 +1,19 @@
-1	developmental process (GO:0032502)	23	11.6%	5.1%
-2	multicellular organismal process (GO:0032501)	28	14.1%	6.2%
-3	cellular process (GO:0009987)	99	50.0%	21.9%
-4	reproduction (GO:0000003)	3	1.5%	0.7%
-5	cell population proliferation (GO:0008283)	2	1.0%	0.4%
-6	localization (GO:0051179)	41	20.7%	9.1%
-7	reproductive process (GO:0022414)	3	1.5%	0.7%
+1	developmental process (GO:0032502)	26	12.9%	5.7%
+2	multicellular organismal process (GO:0032501)	33	16.3%	7.2%
+3	cellular process (GO:0009987)	92	45.5%	20.0%
+4	reproduction (GO:0000003)	2	1.0%	0.4%
+5	cell population proliferation (GO:0008283)	1	0.5%	0.2%
+6	localization (GO:0051179)	45	22.3%	9.8%
+7	reproductive process (GO:0022414)	2	1.0%	0.4%
 8	multi-organism process (GO:0051704)	3	1.5%	0.7%
-9	biological adhesion (GO:0022610)	11	5.6%	2.4%
-10	immune system process (GO:0002376)	4	2.0%	0.9%
-11	cellular component organization or biogenesis (GO:0071840)	37	18.7%	8.2%
-12	biological regulation (GO:0065007)	66	33.3%	14.6%
-13	growth (GO:0040007)	2	1.0%	0.4%
-14	signaling (GO:0023052)	35	17.7%	7.7%
-15	metabolic process (GO:0008152)	51	25.8%	11.3%
-16	response to stimulus (GO:0050896)	33	16.7%	7.3%
-17	biological phase (GO:0044848)	2	1.0%	0.4%
-18	behavior (GO:0007610)	2	1.0%	0.4%
-19	rhythmic process (GO:0048511)	1	0.5%	0.2%
-20	locomotion (GO:0040011)	7	3.5%	1.5%
+9	biological adhesion (GO:0022610)	14	6.9%	3.0%
+10	immune system process (GO:0002376)	2	1.0%	0.4%
+11	cellular component organization or biogenesis (GO:0071840)	39	19.3%	8.5%
+12	biological regulation (GO:0065007)	71	35.1%	15.4%
+13	growth (GO:0040007)	3	1.5%	0.7%
+14	signaling (GO:0023052)	34	16.8%	7.4%
+15	metabolic process (GO:0008152)	46	22.8%	10.0%
+16	response to stimulus (GO:0050896)	32	15.8%	7.0%
+17	behavior (GO:0007610)	2	1.0%	0.4%
+18	rhythmic process (GO:0048511)	1	0.5%	0.2%
+19	locomotion (GO:0040011)	12	5.9%	2.6%
